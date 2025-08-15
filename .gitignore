@@ -1,0 +1,25 @@
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+dist/
+build/
+.cache/
+.parcel-cache/
+.next/
+out/
+coverage/
+
+# Dependências (se virar projeto Node)
+node_modules/
+.env
+.env.*
